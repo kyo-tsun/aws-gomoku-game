@@ -14,8 +14,8 @@ pygame.init()
 BOARD_SIZE = 15  # 15x15 board
 CELL_SIZE = 40   # Size of each cell in pixels
 MARGIN = 50      # Margin around the board
-GRID_COLOR = (210, 180, 140)  # Light brown for the board
-BACKGROUND_COLOR = (245, 222, 179)  # Beige background
+GRID_COLOR = (0, 0, 0)  # Black for the grid lines
+BACKGROUND_COLOR = (255, 255, 255)  # White background
 LINE_WIDTH = 2
 
 # Calculate window size
